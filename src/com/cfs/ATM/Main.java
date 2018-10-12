@@ -1,4 +1,4 @@
-package com.cfs.ATM; 
+package com.cfs.ATM;
 
 import java.util.Scanner;
 
